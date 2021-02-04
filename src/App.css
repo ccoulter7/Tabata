@@ -1,0 +1,17 @@
+.buttonDiv {
+    text-align: center;
+    font-size: 50px;
+    color: deeppink;
+    background-color: lightgray;
+    padding: 140px;
+}
+
+.btn {
+    font-size: 30px;
+    margin-left: 15px;
+    color: deeppink;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+    font-family: Arial;
+}
